@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug involving type coercion and unexpected string concatenation. The bug.js file shows the issue. The bugSolution.js file provides a solution by using explicit type conversion to ensure correct addition of numeric values.
